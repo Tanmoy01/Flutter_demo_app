@@ -1,6 +1,6 @@
 # test_demo
 
-A new Flutter project.
+A new Flutter project for a demo grocery items app.
 
 ## Getting Started
 
